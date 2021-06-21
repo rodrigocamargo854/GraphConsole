@@ -22,9 +22,10 @@ namespace GraphTutorial
         {
             try
             {
-                // GET /me
+                // GET /me / Messages
                 return await graphClient.Me.Messages
                     .Request()
+                    .Header("Prefer","outlook.body-content-type=\"text\"")
                     .GetAsync();
             }
             catch (ServiceException ex)
@@ -44,7 +45,8 @@ namespace GraphTutorial
                     .Select(u => new
                     {
                         u.DisplayName,
-                        u.MailboxSettings
+                        u.MailboxSettings,
+                        
                     })
                     .GetAsync();
             }

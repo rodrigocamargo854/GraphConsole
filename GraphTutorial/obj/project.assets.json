@@ -5212,11 +5212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\rodrigo.godoy\\Desktop\\msgraph-training-dotnet-core\\demo\\GraphTutorial\\GraphTutorial.csproj",
+      "projectUniqueName": "C:\\Users\\rodrigo.godoy\\Desktop\\GraphConsole\\GraphTutorial\\GraphTutorial.csproj",
       "projectName": "GraphTutorial",
-      "projectPath": "c:\\Users\\rodrigo.godoy\\Desktop\\msgraph-training-dotnet-core\\demo\\GraphTutorial\\GraphTutorial.csproj",
+      "projectPath": "C:\\Users\\rodrigo.godoy\\Desktop\\GraphConsole\\GraphTutorial\\GraphTutorial.csproj",
       "packagesPath": "C:\\Users\\rodrigo.godoy\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\rodrigo.godoy\\Desktop\\msgraph-training-dotnet-core\\demo\\GraphTutorial\\obj\\",
+      "outputPath": "C:\\Users\\rodrigo.godoy\\Desktop\\GraphConsole\\GraphTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodrigo.godoy\\AppData\\Roaming\\NuGet\\NuGet.Config",

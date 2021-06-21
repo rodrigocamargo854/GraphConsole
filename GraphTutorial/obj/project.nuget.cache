@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "05MXMdEX3wM/lIFJdohWP7wGSSWB53KRENMlyxzHI/twir4VKGwEH5BmdVlAEa29fgEPsvqDUHfJ9eN3d+/KtQ==",
+  "dgSpecHash": "yrYcUWgrhrpexvxNZ/MVq4epmbSRUinWH0EFrQLmM3yzZvj+32A39XePMFyGPZq3o6Z3bCcPKkdLXgRFOk2Tzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodrigo.godoy\\Desktop\\msgraph-training-dotnet-core\\demo\\GraphTutorial\\GraphTutorial.csproj",
+  "projectFilePath": "C:\\Users\\rodrigo.godoy\\Desktop\\GraphConsole\\GraphTutorial\\GraphTutorial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodrigo.godoy\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\rodrigo.godoy\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
